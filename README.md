@@ -139,7 +139,7 @@ http://localhost:8501
 ### 1. Cloner le projet
 
 bash
-git clone https://github.com/Kiritosexy/-wine-quality-prediction.git
+git clone https://github.com/https://github.com/andrianilanamihaja/-wine-quality-prediction.git
 
 ### 2. Accéder au projet
 
